@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #27292d;
+  background-color: gray/*#27292d*/;
 }
 
 .col {
